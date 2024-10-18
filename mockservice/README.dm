@@ -2,7 +2,7 @@
 
 Java 23 |  Spring Boot 3.3.4 |  Maven
 
-Репозиторий 
+Репозиторий https://github.com/Thirtyand/mockservice.git
 
 
 Для запуска сервиса можно выполнить run.bat в консоли или самостоятельно осуществить следующие шаги:
